@@ -36,8 +36,8 @@ const WelcomeEmail = ({
         <Container style={container}>
           <Section style={message}>
             <Img
-              // src={`${BASE_URL}/horse-1.png`} //👈uncomment this url for production
-              src={`https://i.ibb.co/CV1mKKY/horse-1.jpg`} //👈uncomment this one for development only
+              src={`${BASE_URL}/horse-1.png`} //👈uncomment this url for production
+              // src={`https://i.ibb.co/CV1mKKY/horse-1.jpg`} //👈uncomment this one for development only
               width="600"
               height="400"
               alt="welcome icon"
